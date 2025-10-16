@@ -1,0 +1,1 @@
+# Stock-Manager-n8n-automation-using-database-Airtable
